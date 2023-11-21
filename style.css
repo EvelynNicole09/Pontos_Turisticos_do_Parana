@@ -1,8 +1,13 @@
+body {
+    background: #CCCCCC
+    
+  }
+
 p{
     text-align: center;
 }
 
-body {
-  background: #CCCCCC
-  
+strong{
+    color: lightskyblue;
 }
+
