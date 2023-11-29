@@ -18,36 +18,57 @@ body {
   #pvv{
     width: 50%;
     height: 500px;
+    margin: 40px;
+    margin-right: 100px;
+    margin-left: 450px;
   }
 
   #ci{
     width: 50%;
     height: 500px;
+    margin: 40px;
+    margin-right: 100px;
+    margin-left: 450px;
   }
 
   #m3f{
     width: 40%;
     height: 500px;
+    margin: 40px;
+    margin-right: 100px;
+    margin-left: 450px;
   }
 
   #pa{
     width: 40%;
     height: 500px;
+    margin: 40px;
+    margin-right: 100px;
+    margin-left: 450px;
   }
 
   #bdp{
     width: 50%;
     height: 600px;
+    margin: 40px;
+    margin-right: 100px;
+    margin-left: 450px;
   }
 
   #idm{
     width: 50%;
     height: 500px;
+    margin: 40px;
+    margin-right: 100px;
+    margin-left: 450px;
   }
 
   #pp{
     width: 50%;
     height: 500px;
+    margin: 40px;
+    margin-right: 100px;
+    margin-left: 450px;
   }
 
 p{
