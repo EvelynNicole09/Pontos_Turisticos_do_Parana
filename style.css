@@ -84,3 +84,7 @@ em {
     color: rgb(0, 107, 80);
 }
 
+.itens{
+  style=" font-size: 30px;"
+  font-style: italic;
+}
