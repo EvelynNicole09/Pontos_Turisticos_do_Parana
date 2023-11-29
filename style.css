@@ -72,7 +72,7 @@ body {
   }
 
 p{
-  
+  text-align: center;
 }
 
 strong {
@@ -88,3 +88,8 @@ em {
   
   font-style: italic;
 }
+.pt{
+
+}
+
+.it
