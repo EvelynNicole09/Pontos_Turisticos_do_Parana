@@ -92,4 +92,6 @@ em {
 
 }
 
-.it
+.it{
+  text-align: center;
+}
